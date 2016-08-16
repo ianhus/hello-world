@@ -1,2 +1,3 @@
 # hello-world
-This is part of the GitHub tutorial
+
+Let's see how this whole GitHub thing works. It might be useful!
